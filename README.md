@@ -1,5 +1,5 @@
 # Logging
-Added library to enable and disable logging
+Added library to enable and disable logging. Enable and disable the logging of console.log() and console.dir()
 
 To import the Logging module:
 
