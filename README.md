@@ -1,12 +1,15 @@
 # Logging
-Added library to enable and disable logging
+Added library to enable and disable logging. Enable and disable the logging of console.log() and console.dir()
 
 To import the Logging module:
-var logging = require('./lib/Logging');
+
+    var logging = require('Logging');
 
 One can disable the logging of console.log() and console.dir() using:
-logging.disable();
+
+    logging.disable();
 
 Enable the same using:
-logging.enable();
+
+    logging.enable();
 
