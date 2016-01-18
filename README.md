@@ -13,3 +13,6 @@ Enable the same using:
 
     logging.enable();
 
+Also, you can use toggle() to enable and disable logging. Eg.
+
+    logging.toggle();    
